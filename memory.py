@@ -1,5 +1,5 @@
 import os
-os.environ['OPENAI_API_KEY']=""
+os.environ['OPENAI_API_KEY']="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"
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
